@@ -1,0 +1,36 @@
+The 34 Best VS Code Extensions
+
+1. Auto-Close Tag --
+2. Visual Code Integrated Terminal
+3. Bracket Pair Colorizer
+4. ESLint/TSLint --
+5. Code Spell Checker
+6. Settings Sync
+7. Prettier
+8. Material Icon Theme
+9. Path Intellisense
+10. Browser Preview
+11. Debugger for Chrome--
+12. Javascript (ES6) Code Snippets--
+13. Live Server--
+14. Quokka
+15. Live Share--
+16. Github Extension
+17. GitLens
+18. NPM
+19. Beautify--
+20. Live Sass Compiler--
+21. Emmet
+22. VSCode Icons--
+23. Color Picker--
+24. ES7, React, Redux & GraphQL Snippets
+25. REST Client
+26. Import Cost
+27. View Node Package
+28. Better Comments--
+29. NPM Intellisense
+30. Wallaby.js
+31. Auto Rename Tag--
+32. Material Icon Theme
+33. VS Code Icons--
+34. Better Align
